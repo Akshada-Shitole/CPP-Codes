@@ -1,5 +1,9 @@
 //C++ Program to Find ASCII Value of a Character
 
+// ASCII values..
+//(A-Z) -> (65 - 90)
+//(a - z) -> (97 - 122)
+
 #include <iostream>
 using namespace std;
 int main()
