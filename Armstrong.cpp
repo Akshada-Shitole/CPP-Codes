@@ -1,5 +1,8 @@
 //C++ Program to Check Armstrong Number
 
+//armstrong number is a number whose sum of cube of its digit is equal to the number
+// Eg: 371   -> (3*3*3)+(7*7*7)=(1*1*1)=371
+
 #include <iostream>
 using namespace std;
 int main()
